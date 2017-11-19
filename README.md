@@ -1,0 +1,1 @@
+This is a directory to store exercises demonstrating capability with concurrency collections and multithreading in Java
