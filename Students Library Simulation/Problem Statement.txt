@@ -1,2 +1,3 @@
-N students in N theaads may take only one book from the library at a time.
+N students in N theaas may take only one book from the library at a time.
 Students may not share a book and will wait up to one minute to access the randomly generated desired book.
+When a student has finished a book it then becomes available to the rest of the library and theys are allowed to checkout another book.
