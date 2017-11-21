@@ -1,0 +1,2 @@
+N students in N theaads may take only one book from the library at a time.
+Students may not share a book and will wait up to one minute to access the randomly generated desired book.
